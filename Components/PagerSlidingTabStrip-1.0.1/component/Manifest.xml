@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="PagerSlidingTabStrip" is-shell="true">
+  <name>Material Pager Sliding Tab Strip</name>
+  <publisher>James Montemagno</publisher>
+  <publisher-url>https://github.com/jamesmontemagno/PagerSlidingTabStrip-for-Xamarin.Android</publisher-url>
+  <version>1.0.1</version>
+  <summary>Interactive paging indicator widget based off Material Design and compatible with the ViewPager from the Android Support Library.</summary>
+  <packages>
+    <package id="Refractored.PagerSlidingTabStrip" version="1.0.1" framework="android" />
+  </packages>
+  <samples>
+    <sample id="PSTSSample">
+      <name>Android Sample</name>
+      <summary>Android Sample</summary>
+    </sample>
+  </samples>
+</component>
