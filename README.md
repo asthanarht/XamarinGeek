@@ -1,7 +1,7 @@
 # XamarinGeek
 GeeksForGeeks HTML feed and Fragment Example from Xamarin
 
-** What you can learn from sample ?**
+## ** What you can learn from sample ?**
 1. C# based android development 
 2. Xamarin store component and usuage - I used sliding menu component.
 3. HTML Agility  Pack for Mono
